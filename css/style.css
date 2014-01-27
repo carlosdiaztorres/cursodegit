@@ -19,7 +19,7 @@ html, body {
 body {
 	margin: 0em;
 	padding: 0em;
-	background: #E0E0E0 url(images/img01.png) repeat;
+	background: #c0c0c0 url(images/img01.png) repeat;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10pt;
 	color: #525252;
@@ -115,7 +115,7 @@ strong {
 	height: 3em;
 	margin-top: 1.25em;
 	padding: 0em 1.25em;
-	background: #499D4A;
+	background: #c4a2a6;
 	border-radius: 5px;
 	line-height: 3em;
 	text-shadow: 1px 0px 0px #185E18;
